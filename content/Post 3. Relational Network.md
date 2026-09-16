@@ -2,3 +2,4 @@
 
 - Rhizomatics did an immersive stereoscopic projection mapping at Tokyo Node (I've been there for their Perfume: Disco-graphy exhibition :D)
 - Onionlab's Axioma artwork is a 3d projection mapping using red-blue stereoscopy: https://www.onionlab.com/projection-mapping-barcelona/
+- 
