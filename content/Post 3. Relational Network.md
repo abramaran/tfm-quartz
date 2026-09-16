@@ -1,0 +1,4 @@
+> Construct a network of references that situates your practice in relation to other authors, artists, projects, concepts, or issues. These connections may emerge from any of the areas explored previously: technologies, media, methodologies, themes, interests, discomforts, or working contexts. The goal is not to produce an exhaustive literature review or state of the art, but rather to begin identifying a constellation of references that can help contextualize your research.
+
+- Rhizomatics did an immersive stereoscopic projection mapping at Tokyo Node (I've been there for their Perfume: Disco-graphy exhibition :D)
+- Onionlab's Axioma artwork is a 3d projection mapping using red-blue stereoscopy: https://www.onionlab.com/projection-mapping-barcelona/

@@ -1,0 +1,3 @@
+This technology uses LC shutter glasses that become opaque or transparent depending on the electrical current they receive. The lenses in the left and right eye alternate in opposite phases, allowing each eye to receive a different projected frame.
+
+The projector syncs with the glasses thanks to a light sensor on their frame. Between frames, the projector flashes white frames that the glasses can receive and identify as the beginning of the left or right frame.
