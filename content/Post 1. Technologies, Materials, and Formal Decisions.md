@@ -1,7 +1,3 @@
-> Analyse the practical aspects of your work. Why did you choose particular technologies, materials, or devices? What possibilities do they offer? What limitations do they introduce? How do they shape the form, experience, or outcomes of the project? The goal is to reflect on the technical and formal decisions that have structured the work.
-
-Mostly answered in [[Investigating 3d projection]].
-
 Some months ago, I found a listing on wallapop for a broken projector: Broken, for repair or for pieces. An old Benq w1090 from 2016, which is considered by Reddit purists a budget projector, but at its 700€ selling point, not too shabby. I met the guy, bought it for 35€, and after some tinkering, got it running again!
 
 The quality of image is quite nice, superior to the cheap Temu LCD projectors we were considering at first. But there is one feature in particular that intrigued me: it supports 3D projection.
@@ -11,6 +7,8 @@ There are several 3D technologies used in consumer-grade TVs and projectors. The
 I was stoked when I got my 3d glasses in the mail and started playing with the technology. Nowadays it's mostly been abandoned, but ever since I was a kid I've been obsessed with 3D movies. It's practically a magic trick seeing objects and actors jump out of the screen.
 
 Then, I thought of projection mapping, and started wondering if stereoscopic projection would work to alter the perceived shape of the projected surfaces. This effect is known as stereoscopic capture[^1].
+
+## Experiments with TouchDesigner
 
 Using TouchDesigner and KantanMapper I've made a series of tests exploring different effects using the DLP-link glasses:
 
@@ -25,6 +23,20 @@ https://photos.app.goo.gl/X46LfEj5ohT6dgSv7
 Other interesting effects that can be achieved include displaying invisible text that can only be seen in one lense. If each eye receives the negative version of the same image, without the glasses it can look as if the projected image was full white; only when wearing the glasses the message is revealed.
 
 https://photos.app.goo.gl/LqB6yCmwTAZaogCX7
+
+Completely different images can be displayed on each eye, and made only visible through its lens. Could this be extended to a bigger format, so that people can look through a window and see a different version of the piece?
+
+https://photos.app.goo.gl/fbtWV8ZH7VANJP469
+
+https://photos.app.goo.gl/J3VvJaGR9WNXtiYw6
+
+## What now?
+
+When looking at what worked well and what didn't, it becomes apparent that effects that modify the shape of the object only slightly lend themselves better to projection mapping. If we had a 3D scan of the projected on surface and tracked the position of the viewer using kinect, for example, I believe we could compensate for their location and adjust the 3D effect to adapt to the irregular surface.
+
+But taking into account each viewer's position limits the number of spectators of the piece to one. This is already a limitation of the technology, since the best viewpoint is behind the projector, and each person needs a pair of active glasses (around 15€ the pair if you can find them cheap). Maybe something in the scale of a miniature that only a couple of guests can observe lends itself better to this technology than large-scale mappings for a large number of people.
+
+Playing to the strengths of these tests would be making visuals where objects are trapped inside the shapes, where holes appear, or where ripples deform the surface.
 
 [^1]: N. Okutani, T. Takezawa, D. Iwai and K. Sato, "Stereoscopic Capture in Projection Mapping," in IEEE Access, vol. 6, pp. 65894-65900, 2018, doi: 10.1109/ACCESS.2018.2875905.
 

@@ -1,5 +1,5 @@
 > Construct a network of references that situates your practice in relation to other authors, artists, projects, concepts, or issues. These connections may emerge from any of the areas explored previously: technologies, media, methodologies, themes, interests, discomforts, or working contexts. The goal is not to produce an exhaustive literature review or state of the art, but rather to begin identifying a constellation of references that can help contextualize your research.
 
-- Rhizomatics did an immersive stereoscopic projection mapping at Tokyo Node (I've been there for their Perfume: Disco-graphy exhibition :D)
+- Rhizomatics did an immersive stereoscopic projection mapping at Tokyo Node called Syn : Unfolded Horizon of Bodily Senses (I've been there for their Perfume: Disco-graphy exhibition :D). It was very advanced, they even had stereo flashlights synced to the DLP-link glasses using their chips with a microcontroller. https://rhizomatiks.com/en/work/behind-the-scene-syn/
 - Onionlab's Axioma artwork is a 3d projection mapping using red-blue stereoscopy: https://www.onionlab.com/projection-mapping-barcelona/
-- 
+- Sally Corp. is one of the biggest dark ride manufacturers and has several rides where visitors wear 3D glasses. One example is Sesame Street: Street Mission at PortAventura https://www.sallydarkrides.com/dark-rides/sesame-street. While not exactly mapping projection onto the physical sets, the screens are integrated into the scenery and virtual objects appear side by side with the real ones.
