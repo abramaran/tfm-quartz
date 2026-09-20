@@ -1,6 +1,6 @@
 Un proyecto como el mío que utiliza proyección 3D hubiera tenido mucho sentido en 2009, siguiendo la estela del lanzamiento de Avatar y con el interés que despertaba la tecnología por aquel entonces. Sin embargo, en 2026 tiene poca relevancia cultural, mandando una leve señal en el radar con cada secuela de Avatar que nadie espera ni distingue de las anteriores. 
 
-[[Podrás sacar al cine de la feria, pero no sacar la feria del cine|El 3D quiso ser cine y se quedó en atracción de feria]]. Pero cuando digo esto no lo digo con desprecio: los feriantes son, al fin y al cabo, vendedores de emoción, la cual es un sentimiento que para la mayoría de nosotros no se encuentra en el día a día y que, por tanto, necesitamos suplir de otras maneras. 
+[[🎬 ↔️ 🎠|El 3D quiso ser cine y se quedó en atracción de feria]]. Pero cuando digo esto no lo digo con desprecio: los feriantes son, al fin y al cabo, vendedores de emoción, la cual es un sentimiento que para la mayoría de nosotros no se encuentra en el día a día y que, por tanto, necesitamos suplir de otras maneras. 
 
 Hay otra virtud importante que hermana el cine y la feria, y es que acudimos a ellos con una voluntad de ser manipulados. Buscamos el ilusionismo, la inmersión, acudimos voluntariamente al engaño. Engañamos al cuerpo con movimientos imposibles cercanos a la muerte; engañamos al corazón con imágenes fantásticas y emociones ajenas a nosotros. Y ese punto en común entre cine y feria es clave en mi manera de entender el arte digital.
 
